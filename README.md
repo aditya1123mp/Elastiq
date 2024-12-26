@@ -1,5 +1,5 @@
 
-**Overview  **
+Overview 
 This project automates interactions with the Table Sort and Search Demo page on the LambdaTest Selenium Playground website. It contains three test cases that sequentially perform specific tasks.
 
 ---
